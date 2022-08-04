@@ -1,4 +1,4 @@
-# NandToTetris - Project 7 - VMTranslator in NodeJS
+# NandToTetris - Project 7 and 8 - VMTranslator in NodeJS
 
 Project has been built during course [NandToTetris](https://www.nand2tetris.org/)!
 The VMTranslator allows us to translate commands language code into Assembly Language.
